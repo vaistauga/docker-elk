@@ -5,3 +5,6 @@
 http.host: 0.0.0.0
 
 node.name: logstash
+
+environment:
+  LOG_LEVEL: debug
